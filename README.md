@@ -4,22 +4,6 @@
 
 Streamline is a real-time chat application inspired by Discord, designed to facilitate seamless communication and collaboration among users. This README provides an overview of the app and a brief introduction of how I designed the architecture.
 
-- [Website](https://streamline.fonguniverse.com/)
-- [Demo & Explanation Video](https://drive.google.com/file/d/19P6xscDAvW_xlV_CykDalIQneZfrplMM/iew?usp=drive_link)
-
-## Get Started
-
-|     | Username | Password |
-| :-: | :------: | :------: |
-|  1  |  Demo1   |  demo1   |
-|  2  |  Demo2   |  demo2   |
-
-Please follow these steps to test the chat app's functionality:
-
-1. Login with two different accounts using two separate browsers or one in a regular tab and the other in an Incognito window.
-
-2. Once logged in, both accounts can send messages and images to each other or initiate a video meeting to communicate face-to-face.
-
 ## Features
 
 ### Message
